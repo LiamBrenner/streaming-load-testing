@@ -3,6 +3,6 @@ coverage
 locustio==0.14.4
 mpegdash==0.2.0
 m3u8==0.3.6
-requests==2.23.0
+requests==2.32.0
 
 -e .
